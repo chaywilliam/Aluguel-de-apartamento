@@ -72,4 +72,5 @@ Se você tiver alguma dúvida ou sugestão, entre em contato:
 
 [Charles William]
 [c_wasouza@outlook.com]
+
 Sinta-se à vontade para modificar e adaptar este código para suas próprias análises!
